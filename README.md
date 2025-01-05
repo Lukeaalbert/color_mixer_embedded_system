@@ -1,4 +1,4 @@
-# sw-hw_datapath
+# Color Mixer Embedded System
 
 ### This is a project to demonstrate low level programming and hardware skills.
 
