@@ -12,4 +12,4 @@ See the schematic and demo video below ;)
 ![schematic](https://github.com/user-attachments/assets/52c6f140-091d-428f-8779-a26e8961c995)
 
 
-https://github.com/user-attachments/assets/aca6c015-004b-40b7-b707-c636a89ad48d
+https://github.com/user-attachments/assets/2198fc27-9399-4d60-b8bf-d727ac6c301c
